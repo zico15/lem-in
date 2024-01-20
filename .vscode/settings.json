@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "engine.h": "c",
+    "sdl2d.h": "c",
+    "lemin.h": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "vector": "c"
+  }
+}
